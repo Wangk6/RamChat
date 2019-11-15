@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567406438661",
+    "firebase_url": "https://ramchat-6adff.firebaseio.com",
+    "project_id": "ramchat-6adff",
+    "storage_bucket": "ramchat-6adff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567406438661:android:7b297463dbe0d863caef6c",
+        "android_client_info": {
+          "package_name": "com.example.ramchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567406438661-52mj4vs7u98i3lkuqnflt8pi38tit6vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ramchat",
+            "certificate_hash": "f164803cc1f8d17458ee6d9a8eb7ca83191357b0"
+          }
+        },
+        {
+          "client_id": "567406438661-s0a2jc9ncatns6cp9krchr8b15qr1dji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslZ2BX4_qVF8q_F68fgVTHEHQGS1GF6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567406438661-s0a2jc9ncatns6cp9krchr8b15qr1dji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
